@@ -20,3 +20,4 @@ after_success:
     - docker push juanvidher/multi-nginx
     - docker push juanvidher/multi-server
     - docker push juanvidher/multi-worker
+    
